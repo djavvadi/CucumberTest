@@ -32,7 +32,10 @@ Eclipse: http://www.eclipse.org/downloads/
 
 # Learning covered in this Project are:
 1.Basic Webdriver Script
+
 2.Parameter Handling
+
 3.Scenario Outline Data tables
+
 4.Scenario Hooks
 
