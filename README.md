@@ -28,3 +28,11 @@ Cucumber Plugin for Eclipse: https://cucumber.io/cucumber-eclipse/update-site
 Eclipse: http://www.eclipse.org/downloads/
 
 **** If latest plugin for eclipse is used, accordingly update the latest versions of cucumber core, java and Gherkins to avoid errors in setup****
+
+
+# Learning covered in this Project are:
+1.Basic Webdriver Script
+2.Parameter Handling
+3.Scenario Outline Data tables
+4.Scenario Hooks
+
